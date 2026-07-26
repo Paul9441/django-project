@@ -4,9 +4,10 @@ from django.shortcuts import render
 
 
 
-
-
-
 def StudentListView(request):
     # Logic for listing students
     pass
+
+
+def Home(request):
+    return "welcome"
