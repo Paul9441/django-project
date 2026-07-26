@@ -1,4 +1,4 @@
-# django-project
+# django-project---
 # env creation 
 1. pip install virtualenv
 2. python -m venv env
